@@ -26,3 +26,15 @@ body {
 #tortenet {
 	font-weight: bold;
 }
+
+a {
+	font-weight: bold;
+}
+
+p {
+	font-weight: normal;
+}
+
+.bold-p {
+	font-weight: bold;
+}
