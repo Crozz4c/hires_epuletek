@@ -15,10 +15,12 @@ body {
 .kepfelirat
 {
 	text-align: center;
+	font-style: italic;
 }
 
 .galeriakep
 {
+	height: 300px;
 	margin: auto;
 	display: block;
 }
@@ -37,4 +39,12 @@ p {
 
 .bold-p {
 	font-weight: bold;
+}
+
+.theadBcolor {
+	border: 3pt solid #7a5c3e;
+}
+
+.tabBcolor {
+	border: 3pt solid #7a5c3e;
 }
