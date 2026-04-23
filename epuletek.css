@@ -48,3 +48,7 @@ p {
 .tabBcolor {
 	border: 3pt solid #7a5c3e;
 }
+
+.card {
+	margin: 20px 0 20px 0;
+}
